@@ -53,3 +53,13 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+.footer {
+  position: static;
+  border: 3px solid #73AD21;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #C25100;
+  color: white;
+  text-align: center;
+}
